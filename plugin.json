@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "distribb",
+  "version": "1.0.0",
+  "description": "SEO automation for your agent: keyword research, AI-written articles that earn real high-DR backlinks, CMS publishing to WordPress, Webflow and Shopify, internal linking, and Google Business Profile management.",
+  "author": {
+    "name": "Distribb",
+    "email": "support@distribb.io",
+    "url": "https://distribb.io"
+  },
+  "homepage": "https://distribb.io",
+  "repository": "https://github.com/Bomx/distribb-plugin",
+  "license": "MIT",
+  "keywords": [
+    "seo", "keyword-research", "backlinks", "content-marketing", "publishing",
+    "wordpress", "webflow", "shopify", "google-business-profile", "distribb"
+  ]
+}
